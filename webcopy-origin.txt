@@ -1,0 +1,56 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.3.0/color-thief.umd.js
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\ajax\libs\color-thief\2.3.0\color-thief.umd.js
+Content Type: application/javascript
+
+Uri: https://fonts.cdnfonts.com/css/akira-expanded
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\css\akira-expanded
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/37506/Akira Expanded Demo.woff
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\s\37506\Akira Expanded Demo.woff
+Content Type: font/woff
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@300;700&display=swap
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://miradioenvivo.com/
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\index.htm
+Content Type: text/html
+
+Uri: https://miradioenvivo.com/assets/estacion90s.jpg
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\assets\estacion90s.jpg
+Content Type: image/jpeg
+
+Uri: https://miradioenvivo.com/assets/favicon.png
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\assets\favicon.png
+Content Type: image/png
+
+Uri: https://miradioenvivo.com/assets/marca.png
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\assets\marca.png
+Content Type: image/png
+
+Uri: https://miradioenvivo.com/css/main.min.css
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\css\main.min.css
+Content Type: text/css
+
+Uri: https://miradioenvivo.com/custom.css
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\custom.css
+Content Type: text/css
+
+Uri: https://miradioenvivo.com/js/main.js
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\js\main.js
+Content Type: text/javascript
+
+Uri: https://miradioenvivo.com/manifest.json
+File Name: C:\Users\mini\Desktop\televen\miradioenvivo.com\manifest.json
+Content Type: application/json
+
